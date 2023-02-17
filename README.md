@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🔭 I’m currently working as **Technical Specialist** at **Zensar Technology, Pune** 
+ 🔭 I’m currently working as **Senior Technical Specialist** at **Zensar Technology, Pune** 
 <!--
 **adchoudhary/adchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
